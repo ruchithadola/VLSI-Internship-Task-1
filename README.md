@@ -46,5 +46,5 @@ The following circuits were designed and verified:
 - Half Adder Implementation
 
 ## Author
-Ruchitha Dola Naidu
+Dola Ruchitha Naidu
 MainCrafts Technology – VLSI Internship
